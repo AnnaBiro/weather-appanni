@@ -84,3 +84,8 @@ ul {
 #search-form {
   text-align: center;
 }
+#date {
+  text-align: center;
+  color: #fcfefe;
+  font-size: 22px;
+}
