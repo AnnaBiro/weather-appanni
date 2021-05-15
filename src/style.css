@@ -70,7 +70,7 @@ ul {
   line-height: 2;
 }
 .card {
-  background-image: url("src/images/sky.jpeg");
+  background-image: url("images/sky.jpeg");
 }
 .units {
   position: relative;
