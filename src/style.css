@@ -93,5 +93,6 @@ ul {
   top: -10px;
 }
 #temp {
-  text-align: center;
+  position: relative;
+  left: 10px;
 }
