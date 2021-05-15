@@ -89,5 +89,6 @@ ul {
   text-align: center;
   color: #fcfefe;
   font-size: 22px;
-  padding: 0;
+  position: relative;
+  top: -10px;
 }
